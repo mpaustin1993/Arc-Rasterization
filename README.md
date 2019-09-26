@@ -1,7 +1,16 @@
 # HW1
 First homework for COSC 4370
 
-I used Microsoft Visual Code with a WSL Extension to my Linux server to develop and compile my homework in C++.
+I used Microsoft Visual Code with a WSL Extension to my personal Linux server in Ubuntu to develop and compile my homework in C++.
+
+I compiled the program in my WSL Extension via the following commands:
+
+  g++ hw1.cpp
+
+  ./a.out 100
+
+
+Program Description:
 
 First, I read through the provided homework material analyzing and explaining rasterizing a circle via MidPoint lines.
 
