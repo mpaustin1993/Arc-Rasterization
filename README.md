@@ -1,5 +1,5 @@
-# HW1
-First homework for COSC 4370
+# Arc Rasterization
+First homework for Interactive Computer Graphics
 
 I used Microsoft Visual Code with a WSL Extension to my personal Linux server in Ubuntu to develop and compile my homework in C++.
 
